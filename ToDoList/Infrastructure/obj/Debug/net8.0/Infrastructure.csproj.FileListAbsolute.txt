@@ -1,0 +1,17 @@
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Net\ToDoList\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Net\ToDoList\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Net\ToDoList\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Net\ToDoList\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Net\ToDoList\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Net\ToDoList\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Net\ToDoList\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
