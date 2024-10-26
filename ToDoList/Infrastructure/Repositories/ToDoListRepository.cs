@@ -15,7 +15,9 @@ namespace Infrastructure.Repositories
         }
         public async Task<Guid> AddAsync(ToDoList list)
         {
-            throw new NotImplementedException();
+            await context.ToDoLists.AddAsync(list);
+            await context.SaveChangesAsync();
+            return list.Id;
         }
         public async Task<IEnumerable<ToDoList>> GetAllAsync()
         {

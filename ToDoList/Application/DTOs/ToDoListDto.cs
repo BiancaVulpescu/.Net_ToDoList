@@ -1,6 +1,6 @@
 ﻿namespace Application.DTOs
 {
-    internal class ToDoListDto
+    public class ToDoListDto
     {
         public Guid Id { get; set; }
         public string Description { get; set; }

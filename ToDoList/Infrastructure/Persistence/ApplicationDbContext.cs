@@ -16,7 +16,7 @@ namespace Infrastructure.Persistence
             modelBuilder.HasPostgresExtension("uuid-ossp");
             modelBuilder.Entity<ToDoList>(entity =>
             {
-                entity.ToTable(entity.GetType().Name);
+                entity.ToTable("todolist");
                 entity.HasKey(e => e.Id);
                 entity.Property(e => e.Id)
                 .HasColumnType("uuid")
