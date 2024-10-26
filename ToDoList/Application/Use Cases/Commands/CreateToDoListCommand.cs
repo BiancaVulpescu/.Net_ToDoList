@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
 
 namespace Application.Use_Cases.Commands
 {
-    internal class CreateToDoListCommand
+    public class CreateToDoListCommand : IRequest<Guid>
     {
+        public string Description { get; set; }
+        public bool IsDone { get; set; }
+        public DateTime DueDate { get; set; }
     }
 }

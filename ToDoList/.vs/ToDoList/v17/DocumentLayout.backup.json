@@ -1,81 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Net\\ToDoList\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|d:\\net\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|d:\\net\\todolist\\todolist\\controllers\\todolistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\todolistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|d:\\net\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|d:\\net\\todolist\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|d:\\net\\todolist\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|d:\\net\\todolist\\infrastructure\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|d:\\net\\todolist\\domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|d:\\net\\todolist\\domain\\repositories\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|d:\\net\\todolist\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\use cases\\commandhandlers\\updatetodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\updatetodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\use cases\\commandhandlers\\deletetodolistbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\deletetodolistbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\use cases\\commandhandlers\\createtodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\createtodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\use cases\\commands\\deletetodolistbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\deletetodolistbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\use cases\\commands\\updatetodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\updatetodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\use cases\\commands\\createtodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\commands\\createtodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\createtodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|d:\\net\\todolist\\application\\dtos\\todolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\Migrations\\20241026175737_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241026175737_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\queries\\gettodolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\gettodolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\queries\\gettodolistbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\gettodolistbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\commandhandlers\\updatetodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\updatetodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\commandhandlers\\deletetodolistbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\deletetodolistbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\commandhandlers\\createtodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\createtodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\dtos\\todolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\dtos\\todolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|d:\\net\\todolist\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\domain\\repositories\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\infrastructure\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\commands\\deletetodolistbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\deletetodolistbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\application\\use cases\\commands\\updatetodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\updatetodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|c:\\users\\admin\\desktop\\facultate\\.net_todolist\\todolist\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -86,43 +98,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ToDoListsController.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\ToDoList\\Controllers\\ToDoListsController.cs",
-              "RelativeDocumentMoniker": "ToDoList\\Controllers\\ToDoListsController.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\ToDoList\\Controllers\\ToDoListsController.cs",
-              "RelativeToolTip": "ToDoList\\Controllers\\ToDoListsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:24:17.918Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\ToDoList\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\ToDoList\\Program.cs*",
-              "RelativeToolTip": "ToDoList\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateToDoListCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:14:27.63Z",
+              "WhenOpened": "2024-10-24T11:15:09.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Entities\\ToDoList.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Entities\\ToDoList.cs",
+              "RelativeToolTip": "Domain\\Entities\\ToDoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:22:33.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241026175737_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\Migrations\\20241026175737_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241026175737_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\Migrations\\20241026175737_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241026175737_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:57:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA+wBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:33:54.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\ToDoList\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\ToDoList\\appsettings.json",
               "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
-              "ToolTip": "D:\\Net\\ToDoList\\ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\ToDoList\\appsettings.json",
               "RelativeToolTip": "ToDoList\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-24T12:18:41.14Z",
               "EditorCaption": ""
@@ -130,101 +176,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ToDoList",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\ToDoList\\ToDoList.csproj",
-              "RelativeDocumentMoniker": "ToDoList\\ToDoList.csproj",
-              "ToolTip": "D:\\Net\\ToDoList\\ToDoList\\ToDoList.csproj*",
-              "RelativeToolTip": "ToDoList\\ToDoList.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T12:14:23.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Infrastructure\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Infrastructure\\DependencyInjection.cs*",
-              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:17:52.021Z",
+              "WhenOpened": "2024-10-26T16:59:33.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ToDoListRepository.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs*",
-              "RelativeToolTip": "Infrastructure\\Repositories\\ToDoListRepository.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Application\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\ValidationBehavior.cs",
+              "RelativeToolTip": "Application\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:48:25.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:40:53.314Z",
+              "WhenOpened": "2024-10-26T16:46:30.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IToDoListRepository.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\IToDoListRepository.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\IToDoListRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Utils\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Utils\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Utils\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Utils\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:04:46.631Z",
+              "WhenOpened": "2024-10-26T16:37:28.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\DependencyInjection.cs",
               "RelativeToolTip": "Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T10:17:31.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ToDoList.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Domain\\Entities\\ToDoList.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\ToDoList.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Domain\\Entities\\ToDoList.cs",
-              "RelativeToolTip": "Domain\\Entities\\ToDoList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GetToDoListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetToDoListQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetToDoListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:16:59.913Z",
+              "WhenOpened": "2024-10-25T13:39:14.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "GetToDoListByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:09:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UpdateToDoListCommandHandler.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
               "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DeleteToDoListByIdCommandHandler.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
               "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,24 +279,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CreateToDoListCommandHandler.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
               "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T11:17:44.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
+              "Title": "ToDoListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\DTOs\\ToDoListDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ToDoListDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\DTOs\\ToDoListDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ToDoListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:22:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IToDoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IToDoListRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IToDoListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:28:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:14:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToDoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:48:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "DeleteToDoListByIdCommand.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
               "RelativeToolTip": "Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,11 +357,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "UpdateToDoListCommand.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
               "RelativeToolTip": "Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,50 +370,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateToDoListCommand.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
-              "RelativeToolTip": "Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
+              "DocumentIndex": 20,
+              "Title": "ToDoList.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
+              "RelativeDocumentMoniker": "ToDoList\\ToDoList.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
+              "RelativeToolTip": "ToDoList\\ToDoList.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:15:09.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ToDoListDto.cs",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\DTOs\\ToDoListDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ToDoListDto.cs",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\DTOs\\ToDoListDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\ToDoListDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:08:54.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Application",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "D:\\Net\\ToDoList\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T11:07:50.413Z",
+              "WhenOpened": "2024-10-24T12:14:23.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Domain",
-              "DocumentMoniker": "D:\\Net\\ToDoList\\Domain\\Domain.csproj",
+              "DocumentIndex": 21,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "D:\\Net\\ToDoList\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
