@@ -26,6 +26,12 @@ namespace ToDoList.Controllers
         {
             return await mediator.Send(new GetToDoListByIdQuery { Id = id });
         }
+        [HttpGet()]
+        public async Task<ActionResult<ToDoListDto>> GetToDoList()
+        {
+            var lists = await mediator.Send(new GetToDoListQuery());
+            return Ok(lists);
+        }
 
 
     }

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Application.DTOs;
+using MediatR;
 
 namespace Application.Use_Cases.Queries
 {
-    internal class GetToDoListQuery
+    public class GetToDoListQuery : IRequest<List<ToDoListDto>>
     {
+
     }
 }

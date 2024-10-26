@@ -21,7 +21,7 @@ namespace Infrastructure.Repositories
         }
         public async Task<IEnumerable<ToDoList>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await context.ToDoLists.ToListAsync();
         }
         public async Task DeleteAsync(Guid id)
         {
