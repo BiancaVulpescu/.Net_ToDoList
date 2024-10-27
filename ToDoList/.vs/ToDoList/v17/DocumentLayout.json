@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\todolistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\len ovo\\source\\repos\\.net_todolist\\todolist\\infrastructure\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\len ovo\\source\\repos\\.net_todolist\\todolist\\application\\use cases\\commandhandlers\\updatetodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\updatetodolistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateToDoListCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Len Ovo\\source\\repos\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Len Ovo\\source\\repos\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:15:47.261Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -40,35 +49,9 @@
               "RelativeDocumentMoniker": "ToDoList\\Controllers\\ToDoListsController.cs",
               "ToolTip": "C:\\Users\\Len Ovo\\source\\repos\\.Net_ToDoList\\ToDoList\\ToDoList\\Controllers\\ToDoListsController.cs",
               "RelativeToolTip": "ToDoList\\Controllers\\ToDoListsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T15:00:24.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ToDoListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Len Ovo\\source\\repos\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "ToolTip": "C:\\Users\\Len Ovo\\source\\repos\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:54:19.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateToDoListCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Len Ovo\\source\\repos\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Len Ovo\\source\\repos\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
-              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:49:58.53Z",
               "EditorCaption": ""
             }
           ]
