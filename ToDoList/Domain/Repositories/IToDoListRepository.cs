@@ -6,8 +6,8 @@ namespace Domain.Repositories
     {
         Task<IEnumerable<ToDoList>> GetAllAsync();
         Task<ToDoList> GetByIdAsync(Guid id);
-        Task<Guid> AddAsync(ToDoList book);
-        Task UpdateAsync(ToDoList book);
+        Task<Guid> AddAsync(ToDoList tdl);
+        Task UpdateAsync(ToDoList tdl);
         Task DeleteAsync(Guid id);
     }
 }

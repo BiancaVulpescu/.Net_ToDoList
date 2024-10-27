@@ -4,7 +4,7 @@ using Application.Use_Cases.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ToDoList.Controllers
+namespace ToDoListManager.Controllers
 {
     [Route("api/v1/[controller]")]
     [ApiController]
@@ -31,6 +31,17 @@ namespace ToDoList.Controllers
         {
             var lists = await mediator.Send(new GetToDoListQuery());
             return Ok(lists);
+        }
+
+        [HttpPut("{id:guid}")]
+        public async Task<ActionResult> UpdateToDoList(Guid id, UpdateToDoListCommand command)
+        {
+            if (command.Id != id)
+            { 
+                return BadRequest();
+            }
+            await mediator.Send(command); 
+            return Ok();
         }
 
         [HttpDelete("{id:guid}")]
