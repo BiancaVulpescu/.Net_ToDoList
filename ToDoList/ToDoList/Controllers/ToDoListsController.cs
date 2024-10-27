@@ -19,7 +19,7 @@ namespace ToDoListManager.Controllers
         public async Task<ActionResult<Guid>> CreateToDoList(CreateToDoListCommand command)
         {
             var id = await mediator.Send(command);
-            return CreatedAtAction(nameof(GetToDoListById), new { Id = id }, command);
+            return CreatedAtAction(nameof(GetToDoListById), new { Id = id }, id);
         }
         [HttpGet("{id:guid}")]
         public async Task<ActionResult<ToDoListDto>> GetToDoListById(Guid id)
@@ -41,7 +41,7 @@ namespace ToDoListManager.Controllers
                 return BadRequest();
             }
             await mediator.Send(command); 
-            return Ok();
+            return StatusCode(StatusCodes.Status204NoContent);
         }
 
         [HttpDelete("{id:guid}")]

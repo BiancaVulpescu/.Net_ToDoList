@@ -7,7 +7,7 @@ using FluentAssertions;
 using NSubstitute;
 using System.ComponentModel.DataAnnotations;
 
-namespace ToDoList.Application.UnitTests
+namespace ToDoListManager.Application.UnitTests
 {
     public class CreateToDoListCommandHandlersTests
     {
@@ -24,7 +24,7 @@ namespace ToDoList.Application.UnitTests
             //Arrange
             var listId = Guid.NewGuid();
             var command = new CreateToDoListCommand();
-            var list = new Domain.Entities.ToDoList { Id = listId};
+            var list = new Domain.Entities.ToDoList { Id = listId };
             repository.AddAsync(list).Returns(Task.FromResult(listId));
             mapper.Map<Domain.Entities.ToDoList>(command).Returns(list);
             //Act
@@ -32,14 +32,14 @@ namespace ToDoList.Application.UnitTests
             var result = handler.Handle(command, CancellationToken.None);
             //Assert
             result.Should().NotBeNull();
-            Assert.IsType<Guid>(result.Result); 
+            Assert.IsType<Guid>(result.Result);
             Assert.Equal(listId, result.Result);
         }
         [Fact]
         public void Given_CreateToDoListCommandHandler_When_DataIsInvalid_Then_HandleShould_ThrowValidationException()
         {
             // Arrange
-            var command = new CreateToDoListCommand { Description = "" }; 
+            var command = new CreateToDoListCommand { Description = "" };
             var handler = new CreateToDoListCommandHandler(repository, mapper);
 
             // Act & Assert

@@ -9,7 +9,7 @@ using System;
 using Xunit;
 using Application.DTOs;
 
-namespace ToDoList.Application.UnitTests
+namespace ToDoListManager.Application.UnitTests
 {
     public class GetToDoListByIdQueryHandlersTests
     {
@@ -52,9 +52,9 @@ namespace ToDoList.Application.UnitTests
             result.DueDate.Should().BeCloseTo(DateTime.Now, precision: TimeSpan.FromMilliseconds(5000));
         }
 
-        private Domain.Entities.ToDoList GenerateToDoList()
+        private ToDoList GenerateToDoList()
         {
-            return new Domain.Entities.ToDoList
+            return new ToDoList
             {
                 Id = Guid.NewGuid(),
                 Description = "Description 1",

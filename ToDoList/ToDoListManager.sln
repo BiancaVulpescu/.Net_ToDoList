@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration Tests", "Integr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{1B2C8A74-E04C-4E19-B7DA-FC3375B2A29C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Application.UnitTests", "ToDoList.Application.UnitTests\ToDoList.Application.UnitTests.csproj", "{A627A7FC-D460-40AE-A141-D7954CD3F205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoListManager.Application.UnitTests", "ToDoList.Application.UnitTests\ToDoListManager.Application.UnitTests.csproj", "{A627A7FC-D460-40AE-A141-D7954CD3F205}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

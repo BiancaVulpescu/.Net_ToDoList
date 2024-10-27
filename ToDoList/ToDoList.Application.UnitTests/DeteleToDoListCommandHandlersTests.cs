@@ -8,7 +8,7 @@ using FluentAssertions;
 using System;
 using Xunit;
 
-namespace ToDoList.Application.UnitTests
+namespace ToDoListManager.Application.UnitTests
 {
     public class DeleteToDoListCommandHandlersTests
     {
