@@ -1,6 +1,9 @@
-﻿namespace Application.Use_Cases.Commands
+using MediatR;
+
+namespace Application.Use_Cases.Commands
 {
-    internal class DeleteToDoListByIdCommand
+    public class DeleteToDoListCommand : IRequest<bool>
     {
+        public Guid Id { get; set; }
     }
 }
