@@ -33,6 +33,12 @@ namespace ToDoList.Controllers
             return Ok(lists);
         }
 
+        [HttpDelete("{id:guid}")]
+        public async Task<ActionResult<ToDoListDto>> DeleteToDoList(Guid id)
+        {
+            bool answer = await mediator.Send(new DeleteToDoListCommand { Id = id });
+            return Ok(answer);
+        }
 
     }
 }
