@@ -5,6 +5,7 @@ using Domain.Entities;
 using Domain.Repositories;
 using FluentAssertions;
 using NSubstitute;
+using System.ComponentModel.DataAnnotations;
 
 namespace ToDoList.Application.UnitTests
 {
@@ -17,15 +18,13 @@ namespace ToDoList.Application.UnitTests
             repository = Substitute.For<IToDoListRepository>();
             mapper = Substitute.For<IMapper>();
         }
-        //unit test for createToDoListCommandHandler
         [Fact]
-        public void Given_CreateToDoListCommandHandler_When_HandleIsCalled_Then_AGuidShouldBeReturned()
+        public void Given_CreateToDoListCommandHandler_When_DataIsValid_Then_HandleShouldReturn_TheCorrectGuidShouldBeReturned()
         {
             //Arrange
             var listId = Guid.NewGuid();
             var command = new CreateToDoListCommand();
             var list = new Domain.Entities.ToDoList { Id = listId};
-            //repository.AddAsync(Arg.Any<Domain.Entities.ToDoList>()).Returns(Guid.NewGuid());
             repository.AddAsync(list).Returns(Task.FromResult(listId));
             mapper.Map<Domain.Entities.ToDoList>(command).Returns(list);
             //Act
@@ -35,6 +34,17 @@ namespace ToDoList.Application.UnitTests
             result.Should().NotBeNull();
             Assert.IsType<Guid>(result.Result); 
             Assert.Equal(listId, result.Result);
+        }
+        [Fact]
+        public void Given_CreateToDoListCommandHandler_When_DataIsInvalid_Then_HandleShould_ThrowValidationException()
+        {
+            // Arrange
+            var command = new CreateToDoListCommand { Description = "" }; 
+            var handler = new CreateToDoListCommandHandler(repository, mapper);
+
+            // Act & Assert
+            Assert.ThrowsAsync<ValidationException>(() => handler.Handle(command, CancellationToken.None));
+
         }
 
 
