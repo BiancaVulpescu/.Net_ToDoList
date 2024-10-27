@@ -33,6 +33,15 @@ namespace ToDoList.Controllers
             return Ok(lists);
         }
 
-
+        [HttpPut("{id:guid}")]
+        public async Task<ActionResult> UpdateToDoList(Guid id, UpdateToDoListCommand command)
+        {
+            if (command.Id != id)
+            { 
+                return BadRequest();
+            }
+            await mediator.Send(command); 
+            return Ok();
+        }
     }
 }

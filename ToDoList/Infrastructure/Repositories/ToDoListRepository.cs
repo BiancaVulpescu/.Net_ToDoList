@@ -31,9 +31,10 @@ namespace Infrastructure.Repositories
         {
             throw new NotImplementedException();
         }
-        public async Task UpdateAsync(ToDoList list)
+        public async Task UpdateAsync(ToDoList tdl)
         {
-            throw new NotImplementedException();
+            context.Entry(tdl).State = EntityState.Modified;
+            await context.SaveChangesAsync();
         }
     }
 }

@@ -12,7 +12,7 @@ namespace Application.Utils
         {
             CreateMap<ToDoList, ToDoListDto>().ReverseMap();
             CreateMap<CreateToDoListCommand, ToDoList>().ReverseMap();
-            //CreateMap<UpdateToDoListCommand, ToDoList>().ReverseMap();
+            CreateMap<UpdateToDoListCommand, ToDoList>().ReverseMap();
         }
     }
 }

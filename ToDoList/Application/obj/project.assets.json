@@ -366,19 +366,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Len Ovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Len Ovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Len Ovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -393,8 +393,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\facultate\\.Net_ToDoList\\ToDoList\\Domain\\Domain.csproj"
+            "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\Domain\\Domain.csproj"
             }
           }
         }
