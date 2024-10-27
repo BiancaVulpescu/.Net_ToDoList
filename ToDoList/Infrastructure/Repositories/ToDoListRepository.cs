@@ -25,11 +25,21 @@ namespace Infrastructure.Repositories
         }
         public async Task DeleteAsync(Guid id)
         {
-            throw new NotImplementedException();
+
+            var list = await context.ToDoLists.FindAsync(id);
+            if (list != null)
+            {
+                context.ToDoLists.Remove(list);
+                await context.SaveChangesAsync();
+            }
+            else
+            {
+                throw new KeyNotFoundException($"ToDoList with ID {id} not found");
+            }
         }
         public async Task<ToDoList> GetByIdAsync(Guid id)
         {
-            throw new NotImplementedException();
+            return await context.ToDoLists.FindAsync(id);
         }
         public async Task UpdateAsync(ToDoList list)
         {

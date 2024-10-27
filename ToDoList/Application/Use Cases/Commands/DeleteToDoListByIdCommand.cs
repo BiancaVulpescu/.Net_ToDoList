@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
 
 namespace Application.Use_Cases.Commands
 {
-    internal class DeleteToDoListByIdCommand
+    public class DeleteToDoListCommand : IRequest<bool>
     {
+        public Guid Id { get; set; }
     }
 }
