@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\todolist.application.unittests\\deteletodolistcommandhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|solutionrelative:todolist.application.unittests\\deteletodolistcommandhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\todolist.application.unittests\\gettodolistbyidqueryhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|solutionrelative:todolist.application.unittests\\gettodolistbyidqueryhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\todolist.application.unittests\\gettodolistqueryhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|solutionrelative:todolist.application.unittests\\gettodolistqueryhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\todolist\\controllers\\todolistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\todolistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\deletetodolistbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\todolist.application.unittests\\gettodolistqueryhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A627A7FC-D460-40AE-A141-D7954CD3F205}|ToDoList.Application.UnitTests\\ToDoList.Application.UnitTests.csproj|solutionrelative:todolist.application.unittests\\gettodolistqueryhandlerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B8BA829-A0D7-45EB-B18B-5682D11CA3E8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\application\\use cases\\commands\\createtodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E47B25-C672-4342-B630-3858074BFA46}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\createtodolistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A052259-2DBF-4906-BB93-2E3F8F1AE597}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED8D8DCB-44C6-4050-8332-BB7E36CBC6B3}|Infrastructure\\Infrastructure.csproj|c:\\users\\vatman\\documents\\github\\.net_todolist\\todolist\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,33 +130,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBcAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DeteleToDoListCommandHandlersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\DeteleToDoListCommandHandlersTests.cs",
+              "RelativeDocumentMoniker": "ToDoList.Application.UnitTests\\DeteleToDoListCommandHandlersTests.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\DeteleToDoListCommandHandlersTests.cs",
+              "RelativeToolTip": "ToDoList.Application.UnitTests\\DeteleToDoListCommandHandlersTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T17:33:54.382Z",
+              "WhenOpened": "2024-10-27T17:36:43.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ToDoListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\ToDoListRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCAAAAAXAAAAAAAAAA==",
+              "Title": "GetToDoListByIdQueryHandlersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\GetToDoListByIdQueryHandlersTests.cs",
+              "RelativeDocumentMoniker": "ToDoList.Application.UnitTests\\GetToDoListByIdQueryHandlersTests.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\GetToDoListByIdQueryHandlersTests.cs",
+              "RelativeToolTip": "ToDoList.Application.UnitTests\\GetToDoListByIdQueryHandlersTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwD4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:48:25.736Z",
+              "WhenOpened": "2024-10-27T17:26:01.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "GetToDoListQueryHandlersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
+              "RelativeDocumentMoniker": "ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
+              "RelativeToolTip": "ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:54:00.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ToDoListsController.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList\\Controllers\\ToDoListsController.cs",
               "RelativeDocumentMoniker": "ToDoList\\Controllers\\ToDoListsController.cs",
@@ -156,64 +177,72 @@
               "RelativeToolTip": "ToDoList\\Controllers\\ToDoListsController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:38:21.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T18:38:21.95Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IToDoListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\IToDoListRepository.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs*",
-              "RelativeToolTip": "Domain\\Repositories\\IToDoListRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T17:28:07.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetToDoListByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs*",
-              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:00:37.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetToDoListByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs*",
-              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:00:11.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteToDoListByIdCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs*",
-              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:18:37.6Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeToolTip": "ToDoList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T12:18:41.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IToDoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IToDoListRepository.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Domain\\Repositories\\IToDoListRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IToDoListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:28:07.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetToDoListByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetToDoListByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:00:37.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetToDoListByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetToDoListByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:00:11.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteToDoListByIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\DeleteToDoListByIdCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:18:37.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UpdateToDoListCommand.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
@@ -221,38 +250,47 @@
               "RelativeToolTip": "Application\\Use Cases\\Commands\\UpdateToDoListCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:16:09.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T11:16:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteToDoListByIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:16:37.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ToDoListRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:48:25.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DeleteToDoListByIdCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs*",
-              "RelativeToolTip": "Application\\Use Cases\\Commands\\DeleteToDoListByIdCommand.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:16:37.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T17:33:54.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetToDoListQueryHandlersTests.cs",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
-              "RelativeDocumentMoniker": "ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
-              "RelativeToolTip": "ToDoList.Application.UnitTests\\GetToDoListQueryHandlersTests.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:54:00.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "GetToDoListQuery.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Queries\\GetToDoListQuery.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetToDoListQuery.cs",
@@ -263,12 +301,8 @@
               "WhenOpened": "2024-10-26T18:34:57.354Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ToDoList.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Domain\\Entities\\ToDoList.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ToDoList.cs",
@@ -280,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "GetToDoListQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\QueryHandlers\\GetToDoListQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetToDoListQueryHandler.cs",
@@ -292,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CreateToDoListCommand.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateToDoListCommand.cs",
@@ -304,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CreateToDoListCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\CreateToDoListCommandHandler.cs",
@@ -316,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20241026175737_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\Migrations\\20241026175737_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241026175737_InitialCreate.cs",
@@ -328,19 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList\\appsettings.json",
-              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
-              "ToolTip": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList\\appsettings.json",
-              "RelativeToolTip": "ToDoList\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-24T12:18:41.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
@@ -352,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
@@ -364,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UpdateToDoListCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\UpdateToDoListCommandHandler.cs",
@@ -376,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList\\Program.cs",
               "RelativeDocumentMoniker": "ToDoList\\Program.cs",
@@ -388,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ToDoList.csproj",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
               "RelativeDocumentMoniker": "ToDoList\\ToDoList.csproj",
@@ -400,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Vatman\\Documents\\GitHub\\.Net_ToDoList\\ToDoList\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -409,6 +431,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-24T11:02:41.129Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
