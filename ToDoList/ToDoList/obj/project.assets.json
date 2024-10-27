@@ -2847,9 +2847,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
-      "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoListManager.csproj",
+      "projectName": "ToDoListManager",
+      "projectPath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoListManager.csproj",
       "packagesPath": "C:\\Users\\Len Ovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",

@@ -4,7 +4,7 @@ using Application.Use_Cases.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ToDoList.Controllers
+namespace ToDoListManager.Controllers
 {
     [Route("api/v1/[controller]")]
     [ApiController]

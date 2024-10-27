@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NYhxUWPowJY=",
+  "dgSpecHash": "GJiPIPkOvc0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
+  "projectFilePath": "C:\\Users\\Len Ovo\\Source\\Repos\\.Net_ToDoList\\ToDoList\\ToDoList\\ToDoListManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Len Ovo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Len Ovo\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
