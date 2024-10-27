@@ -4,18 +4,31 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-ToDoList/.vs/
-ToDoList/Application/bin/
-ToDoList/Application/obj/
-ToDoList/Domain/bin/
-ToDoList/Domain/obj/
-ToDoList/Infrastructure/bin/
-ToDoList/Infrastructure/obj/
-ToDoList/Infrastructure/Migrations/
-ToDoList/ToDoList/bin/
-ToDoList/ToDoList/obj/
-ToDoList/ToDoList.Application.UnitTests/bin/
-ToDoList/ToDoList.Application.UnitTests/obj/
+#.vs/
+#Application/bin/
+#Application/obj/
+#Domain/bin/
+#Domain/obj/
+#Infrastructure/bin/
+#Infrastructure/obj/
+#Infrastructure/Migrations/
+#ToDoList/bin/
+#ToDoList/obj/
+#ToDoList.Application.UnitTests/bin/
+#ToDoList.Application.UnitTests/obj/
+
+#ToDoList/.vs/
+#ToDoList/Application/bin/
+#ToDoList/Application/obj/
+#ToDoList/Domain/bin/
+#ToDoList/Domain/obj/
+#ToDoList/Infrastructure/bin/
+#ToDoList/Infrastructure/obj/
+#ToDoList/Infrastructure/Migrations/
+#ToDoList/ToDoList/bin/
+#ToDoList/ToDoList/obj/
+#ToDoList/ToDoList.Application.UnitTests/bin/
+#ToDoList/ToDoList.Application.UnitTests/obj/
 
 
 # User-specific files
