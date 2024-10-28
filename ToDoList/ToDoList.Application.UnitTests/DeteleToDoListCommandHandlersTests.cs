@@ -1,12 +1,9 @@
 ﻿using AutoMapper;
 using Domain.Repositories;
-using Domain.Entities;
 using NSubstitute;
 using Application.Use_Cases.Commands;
 using Application.Use_Cases.CommandHandlers;
 using FluentAssertions;
-using System;
-using Xunit;
 
 namespace ToDoListManager.Application.UnitTests
 {
@@ -37,8 +34,8 @@ namespace ToDoListManager.Application.UnitTests
             var result = await handler.Handle(command, CancellationToken.None);
 
             // Assert
-            result.Should().BeTrue();
             await repository.Received(1).DeleteAsync(listId);
+            result.Should().BeTrue();
         }
 
         [Fact]
@@ -55,8 +52,8 @@ namespace ToDoListManager.Application.UnitTests
             var result = await handler.Handle(command, CancellationToken.None);
 
             // Assert
-            result.Should().BeFalse();
             await repository.DidNotReceive().DeleteAsync(listId);
+            result.Should().BeFalse();
         }
     }
 }

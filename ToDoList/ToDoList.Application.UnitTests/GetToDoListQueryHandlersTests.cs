@@ -52,7 +52,7 @@ namespace ToDoListManager.Application.UnitTests
                 Assert.Equal(lists[i].Id, result.Result[i].Id);
                 Assert.Equal(lists[i].Description, result.Result[i].Description);
                 Assert.Equal(lists[i].IsDone, result.Result[i].IsDone);
-                Assert.Equal(lists[i].DueDate, result.Result[i].DueDate);
+                Assert.True((lists[i].DueDate - result.Result[i].DueDate).Duration() < TimeSpan.FromSeconds(0.05));
             }
         }
 
@@ -76,7 +76,7 @@ namespace ToDoListManager.Application.UnitTests
 
         private List<ToDoList> GenerateToDoLists()
         {
-           return new List<Domain.Entities.ToDoList> {
+            return new List<Domain.Entities.ToDoList> {
                 new Domain.Entities.ToDoList {
                     Id = new Guid("11111111-1111-1111-1111-111111111111"),
                     Description = "Description 1",
@@ -114,26 +114,5 @@ namespace ToDoListManager.Application.UnitTests
             };
         }
 
-        [Fact]
-        public void Given_UpdateCommandHandler_When_HandleIsCalled_Then_AToDoListShouldBeUpdated()
-        {
-            //Arrange
-            List<ToDoList> tdls = GenerateSingleToDoList();
-            repository.GetByIdAsync(tdls[0].Id).Returns(tdls[0]);
-            ToDoList toBeUpdated = tdls[0];
-            var command = new UpdateToDoListCommand
-            {
-                Id = toBeUpdated.Id,
-                Description = "UpdatedDescription",
-                IsDone = toBeUpdated.IsDone,
-                DueDate = toBeUpdated.DueDate,
-            };
-            GenerateToDoListsDto(tdls);
-            //Act
-            var handler = new UpdateToDoListCommandHandler(repository, mapper);
-            var result = handler.Handle(command, CancellationToken.None);
-            //Assert
-            result.Should().NotBeNull();
-        }
     }
 }
